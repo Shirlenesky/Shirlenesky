@@ -1,5 +1,5 @@
 ### Hi there 👋
-I 'm zero, a Game Developer.
+I 'm shirlene, a Game Developer.
 
 - 🌱 I’m currently learning game developing skills.
 - 🔭 This repository is just a collection of personal learning records.I'm honored if I will help you.
