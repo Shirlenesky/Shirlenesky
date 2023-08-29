@@ -9,4 +9,4 @@ I 'm shirlene, a Game Developer.
 Everything starts from zero.
 May we stick to this path of game development and learning, I hope you and I will meet again at the top of the mountain ✨.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirlenesky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
